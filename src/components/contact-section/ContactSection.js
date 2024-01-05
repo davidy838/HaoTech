@@ -1,7 +1,5 @@
 import React from 'react';
 import './ContactSection.css';
-import { Link } from 'react-router-dom';
-import { FaFacebookSquare, FaInstagram } from 'react-icons/fa';
 
 function ContactSection({ isHomePage }) {
   return (

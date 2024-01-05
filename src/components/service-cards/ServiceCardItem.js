@@ -1,7 +1,6 @@
 import React from 'react';
 import './ServiceCardItem.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faEnvelope, faPlug, faBolt, faServer} from '@fortawesome/free-solid-svg-icons'
 
 function ServiceCardItem(props) {
   return (
