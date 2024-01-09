@@ -9,13 +9,13 @@ const reviews = [
     id: 2,
     image: '/images/reviews-gallery/review2.jpg',
     quote: "I hired HaoTech Electrical LTD for our lighting installation, and I'm thoroughly impressed. They finished ahead of schedule and their attentive, kind approach was outstanding. Their efficiency minimized disruptions, and their professionalism made the process smooth. I highly recommend HaoTech Electrical LTD for exceptional service and commend their remarkable work!",
-    name: "Claire's Edmonton"
+    name: "Anthony Smith"
   },
   {
     id: 3,
     image: '/images/reviews-gallery/review3.jpg',
     quote: "The installation of our security system by HaoTech Electrical LTD at Home Depot was exceptional. Their professionalism, expertise, and attention to detail were evident throughout the process. HaoTech seamlessly integrated the system, balancing functionality and aesthetics. Their courteous approach made the installation hassle-free, and we now have a reliable security setup thanks to their commitment to excellence. I highly recommend HaoTech Electrical LTD for top-tier electrical solutions. Thank you for an outstanding job!",
-    name: "Home Depot Edmonton"
+    name: "Shawn Edwards"
   },
   {
     id: 4,
