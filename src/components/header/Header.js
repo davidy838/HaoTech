@@ -9,7 +9,7 @@ function Header() {
 
   // Function to detect window width
   const handleWindowSizeChange = () => {
-    setIsMobile(window.innerWidth < 768); // Change the width breakpoint as needed
+    setIsMobile(window.innerWidth < 1310); // Change the width breakpoint as needed
   };
 
   // Event listener for window resize
